@@ -1,0 +1,31 @@
+# ECMS Code Ownership - Group 02
+# NOTE: Replace placeholders with confirmed GitHub usernames if needed.
+
+* @Isuruigi
+
+# Project leadership and core UI shell
+/src/App.jsx @Isuruigi
+/src/components/MobileApp.jsx @Isuruigi
+
+# Module ownership by team role
+# I.G.I. Chathuranga (S16847)
+/src/components/Screens/HomeScreen.jsx @Isuruigi
+/src/components/Screens/ProfileScreen.jsx @Isuruigi
+
+# H.J. Jayawardhana (S16842)
+/src/components/Screens/VoiceScreen.jsx @Isuruigi
+
+# M.V.T. Lakruwan (S16989)
+/src/components/Screens/QRScreen.jsx @Isuruigi
+
+# C.M.D.D. Silva (S16743)
+/src/components/Screens/ScheduleScreen.jsx @Isuruigi
+
+# G.S. Vignesh (S16763)
+/presentation/** @Isuruigi
+
+# Documentation ownership
+/docs/ECMS_Design_System.md @Isuruigi
+/docs/MOBILE_APP_GUIDE.md @Isuruigi
+/docs/POSTER_INSTRUCTIONS.md @Isuruigi
+/docs/ECMS_Canva_Poster_Instructions.md @Isuruigi
